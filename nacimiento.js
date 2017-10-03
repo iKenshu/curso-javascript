@@ -8,7 +8,7 @@ const tiempo = hoy - nacimiento
 
 const tiempoSegundos = tiempo / 1000
 
-const tiempoMin = tiempoSegundso / 60
+const tiempoMin = tiempoSegundos / 60
 
 const tiempoHoras = tiempoMin / 60
 
@@ -20,7 +20,7 @@ const diasSemana = [
     'Marter',
     'Miércoles',
     'Jueves',
-    'Viernes'
+    'Viernes',
     'Sábado'
 ]
 
